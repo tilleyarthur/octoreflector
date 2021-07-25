@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* changed <div> to <header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -21,6 +21,7 @@ h1 {
     color: #d9dcd6;
 }
 
+/* changed <div> to <nav> */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -65,13 +66,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* removed secondary classes for efficiency */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* removed secondary classes for efficiency */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,17 +83,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* removed secondary classes for efficiency */
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* removed secondary classes for efficiency */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* removed secondary classes for efficiency */
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -116,7 +117,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* changed <div> to <footer> */
 footer {
     padding: 30px;
     clear: both;
@@ -124,6 +125,6 @@ footer {
     text-align: center;
 }
 
-h5 {
+h2 {
     font-size: 20px;
 }
